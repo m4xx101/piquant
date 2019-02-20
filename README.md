@@ -2,15 +2,15 @@
 
 ### Created by m4xx.!
 
-#### Special Thanks/(Credits).! <3 to my love one [Bubu](https://twitter.com/Vasu5Dhara)
+#### Special Thanks/(Credits) to [Vasundhara](https://twitter.com/Vasu5Dhara)
 
-It's a most efficient Wordlist generator for Password cracking which have ability to do followings :
+It's a most efficient Wordlist generator for Password cracking which has ability to do followings :
 
-- Switch between the iputed words.
+- Switch between the inuted words.
 - It has feature to make all possible passwords with/without special charachters as user define.
-- I've used most comman technique or you can say patter for creating password list, by anlyzing pattern most of the peoples uses to set their password.
+- I've used most comman technique or you can say pattern for creating password list, by anlyzing pattern most of the peoples uses to set their password.
 - It also ask for Birth date as a input since most of the people uses birth date in their passwords. 
-- Finally boom it creates aprox 25k(Unique password with best possibility for Three inputed words).
+- Finally boom it creates aprox 25k unique password (Specifiy about 3 words for best results.)
 
 # Usage 
 
