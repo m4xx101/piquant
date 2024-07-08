@@ -2,11 +2,9 @@
 
 ### Created by m4xx.!
 
-#### Special Thanks/(Credits) to [Vasundhara](https://twitter.com/Vasu5Dhara)
-
 It's a most efficient Wordlist generator for Password cracking which has ability to do followings :
 
-- Switch between the inuted words.
+- Switch between the input words.
 - It has feature to make all possible passwords with/without special charachters as user define.
 - I've used most comman technique or you can say pattern for creating password list, by anlyzing pattern most of the peoples uses to set their password.
 - It also ask for Birth date as a input since most of the people uses birth date in their passwords. 
